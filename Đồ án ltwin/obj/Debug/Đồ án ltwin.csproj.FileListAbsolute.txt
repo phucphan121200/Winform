@@ -1,0 +1,116 @@
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.exe.config
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.exe
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.pdb
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csprojAssemblyReference.cache
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.Form1.resources
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.Properties.Resources.resources
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.GenerateResource.cache
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.CoreCompileInputs.cache
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.exe
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.pdb
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\bin\Debug\Guna.UI.dll
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.MenuForm.resources
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.CopyComplete
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.RegisterForm.resources
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.NotificationSignup.resources
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.EnterCode.resources
+D:\Laptrinh\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ManageAllForm.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.exe.config
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.exe
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.pdb
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csprojAssemblyReference.cache
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.EnterCode.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.Form1.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ManageAllForm.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.MenuForm.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.NotificationSignup.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.Properties.Resources.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.RegisterForm.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.GenerateResource.cache
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.CoreCompileInputs.cache
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.CopyComplete
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.exe
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.pdb
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.EditInfomationForm.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ChangePic.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ChartForm.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ManageOWELLForm.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.exe.config
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.exe
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.pdb
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csprojAssemblyReference.cache
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ChartForm.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ManageOWELLForm.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ChangePic.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.EditInfomationForm.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.EnterCode.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.Form1.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ManageAllForm.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.MenuForm.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.NotificationSignup.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.Properties.Resources.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.RegisterForm.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.GenerateResource.cache
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.CoreCompileInputs.cache
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.CopyComplete
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.exe
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.pdb
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmDMHang.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmDMKhachHang.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmDMNhaCC.resources
+D:\admin\Desktop\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmHoaDonBan.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.exe.config
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.exe
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.pdb
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\bin\Debug\Guna.UI.dll
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ChartForm.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmDMHang.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmDMKhachHang.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmDMNhaCC.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmHoaDonBan.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ManageOWELLForm.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ChangePic.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.EditInfomationForm.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.EnterCode.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.Form1.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ManageAllForm.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.MenuForm.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.NotificationSignup.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.RegisterForm.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.exe
+C:\Users\ASUS\Downloads\Đồ án ltwin (6)\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.pdb
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.exe.config
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.exe
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\bin\Debug\Đồ án ltwin.pdb
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\bin\Debug\Guna.UI.dll
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ChartForm.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmDMHang.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmDMKhachHang.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmDMNhaCC.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmHoaDonBan.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ManageOWELLForm.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ChangePic.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.EditInfomationForm.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.EnterCode.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.Form1.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.ManageAllForm.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.MenuForm.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.NotificationSignup.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.RegisterForm.resources
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.exe
+C:\Users\ASUS\Downloads\Đồ án ltwin\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ án ltwin.pdb
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.LoadingForm.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmDMHang.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmDMKhachHang.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmDMNhaCC.resources
+D:\Lập trình\Lập trình windows\Đồ án ltwin\Đồ án ltwin\obj\Debug\Đồ_án_ltwin.frmHoaDonBan.resources

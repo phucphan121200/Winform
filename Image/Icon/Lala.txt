@@ -1,0 +1,12 @@
+	1	|	Phan      	|	Phuc	|	2	|	Toán	5	|
+	1	|	Phan      	|	Phuc	|	3	|	Anh	7	|
+	1	|	Phan      	|	Phuc	|	4	|	Sinh	3	|
+	2	|	Vy        	|	Pham	|	4	|	Sinh	4	|
+	2	|	Vy        	|	Pham	|	3	|	Anh	8	|
+	2	|	Vy        	|	Pham	|	2	|	Toán	7	|
+	3	|	Tú        	|	Tran	|	3	|	Anh	6	|
+	3	|	Tú        	|	Tran	|	2	|	Toán	7	|
+	3	|	Tú        	|	Tran	|	4	|	Sinh	4	|
+	1	|	Phan      	|	Phuc	|	5	|	Su	6	|
+	2	|	Vy        	|	Pham	|	5	|	Su	5	|
+
